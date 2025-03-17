@@ -1,4 +1,4 @@
-import { WINNING_COMBINATIONS } from "./winning-combinations";
+import { WINNING_COMBINATIONS } from "./costants";
 
 export function deriveWinner(gameBoard, players) {
   let winner;
